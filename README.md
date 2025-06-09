@@ -42,6 +42,14 @@ O **SMSNet Gateway** é um aplicativo Android que permite enviar mensagens SMS e
 
 ---
 
+### Vídeo de Demonstração
+
+> Para assistir ao vídeo, use o link abaixo:
+
+[▶️ Assista ao SMSNet Gateway em ação](https://youtu.be/lcPoHsFuowA?si=bImQvauIEahiAurg)
+
+---
+
 ### Capturas de Tela
 
 Abaixo estão algumas etapas do processo de configuração e uso do app:
